@@ -3,5 +3,7 @@ Desafio de engenharia de dados realizado pela A3Data em junho de 2021. Grupo Con
 
 # Mebros do Grupo:
 Isabella Peres
+
 Lucas Fernandas
+
 Lorena Rios
